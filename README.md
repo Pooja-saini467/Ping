@@ -16,7 +16,7 @@
 - Fully responsive page
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/Ping/blob/main/design/desktop-design.jpg">
 
 ## Demo
 
